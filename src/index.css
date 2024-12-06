@@ -25,7 +25,7 @@ nav {
 }
 nav > img {
     margin-right: 7px;
-    width: 40px;
+    width: 90px;
 }
 
 nav > span {
@@ -36,7 +36,7 @@ nav > span {
 main {
     padding: 60px 30px;
     color: #FFFFFF;
-    background-image: url("react-log1.png");
+    background-image: url("../public/react-log1.png");
     background-size: 325px;
     background-repeat: no-repeat;
     background-position: center;
