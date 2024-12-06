@@ -1,8 +1,9 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+React Webpage Basics
+This project is a simple one-page webpage built with React, Vite, CSS, and HTML. It serves as an introductory learning project for exploring the fundamentals of React, including:
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Components: Understanding and creating reusable React components.
+Styling: Applying styles to React components using CSS.
+Layouts: Structuring the webpage layout using React.
+Asset Importing: Importing and using images and other resources in a React app.
